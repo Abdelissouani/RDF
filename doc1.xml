@@ -5,7 +5,7 @@
 <foaf:Person rdf:about="#aissouani"
 xmlns:foaf="http://xmlns.com/foaf/0.1/">
  <foaf:name>Abdelghani issouani</foaf:name>
- <foaf:homepage rdf:resource="https://abdelissouani.github.io/" />
+ <foaf:homepage rdf:resource="http://aissouani.html/" />
  <foaf:img rdf:resource="/images/me.jpg" />
 </foaf:Person>
 </rdf:RDF>
